@@ -1,16 +1,29 @@
-### Hi there 👋
+## 🖐 Hello there「よこそ」
 
-<!--
-**MarceauKa/MarceauKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marceau, I'm a full-stack web developper and entrepreneur in France 🇫🇷 I'm the Founder of [404labfr](https://www.404lab.fr/), [Shaark](https://github.com/MarceauKa/shaark) and [Formidable](#soon)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✅ Skills
+- Backend: PHP, Laravel (certified), Node.js
+- Frontend: Bootstrap, Vue.js, Tailwind
+- PWA, SPA, Web sockets
+- Unit testing, Continuous integration, Git, Docker, Monitoring
+- API: Payment (Stripe, Mango, Paypal), Mailing & Texting, Social networks
+- Data: MySQL, PostGre, Redis
+- Panel: Plesk, cPanel, 
+- CMS: Statamic, PyroCMS, Prestashop
+- SEO & SEA
+
+### ✅ Experiences (10 years)
+- SaaS and PaaS
+- ERP and CRM
+- E-commerce
+- Online meeting and dating
+- Web games
+- High traffic websites and security
+
+### 🌍 Networks
+- [marceau.casals.fr](https://marceau.casals.fr/)
+- [Hire me](https://www.linkedin.com/in/marceaucasals/)
+- [@MarceauKa](https://twitter.com/MarceauKa)
+- [LinkedIn](https://www.linkedin.com/in/marceaucasals/)
